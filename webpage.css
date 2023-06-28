@@ -1,0 +1,192 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@500&display=swap');
+.p1{
+    
+    height: 55px;
+    width: auto;
+    color: white;
+    background-color: rgba(27, 69, 69, 0.8);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 55px;
+    padding-right: 55px;
+    border-radius: 10px;
+    border:1px double;
+    
+    }
+.ha{
+        font-family: 'Edu NSW ACT Foundation', cursive;
+        width: auto;
+
+    }
+a{
+    text-decoration: none;
+    color: white;
+}
+.p11{
+    
+    width: 300px;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+
+}
+hr{
+   width: 300px;
+   border-color: rgb(250, 249, 243);
+   
+}
+img{
+    margin: 10px;
+    border-radius: 20px;
+    
+}
+.p2{
+   position: absolute;
+   left: 292px;
+   top: 78px;
+   margin: 17px;
+   background-color:  rgba(115, 142, 157, 0.5);
+   color:black;
+   height: 234px;
+   border-radius: 20px;
+   border: double;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-bottom: 10px;
+
+
+}
+#section1{
+    color: black;
+    position: absolute;
+    top: 1400px;
+}
+
+
+.p3{
+    padding-top: 5px;
+    background-color: rgba(115, 140, 157, 0.5);
+    height: 229px;
+    border-radius: 15px;
+    border: double;
+}
+.nav1{
+    margin-top: 32px;
+    margin-left: 64px;
+    height: 40px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    width: 540px;
+    border-radius: 20px;
+    justify-content: space-evenly;
+    color: white;
+}
+.nav2{
+    
+    border-radius: 10px;
+}
+body{
+   /*background-image: url("https://images.unsplash.com/photo-1529753253655-470be9a42781?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Njl8fGRhcmslMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+
+   /* background-image: url("https://images.unsplash.com/photo-1468657988500-aca2be09f4c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGRhcmt8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60");*/
+  /* background: radial-gradient(circle at -8.9% 51.2%, rgb(255, 124, 0) 0%, rgb(255, 124, 0) 15.9%, rgb(255, 163, 77) 15.9%, rgb(255, 163, 77) 24.4%, rgb(19, 30, 37) 24.5%, rgb(19, 30, 37) 66%);*/
+  /* background-image: linear-gradient(to bottom, #434343 0%, black 100%);*/
+  background-image: linear-gradient(to right, #DECBA4, #3E5151);
+}
+.tech1{
+    position: absolute;
+    left: 900px;
+    top: 400px;
+    background-color: rgba(66, 59, 44, 0.1);
+    height: 150px;
+    width: 200px;
+    padding: 20px;
+    border: 2px dotted black;
+    border-radius: 15px;
+} 
+.d2{
+    height: 40px;
+    background-color: rgba(14, 14, 14,0.8);
+    color: white;
+    width: auto;
+    border-radius: 15px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.card1{
+    position: absolute;
+    top: 750px;
+    left: 50px; 
+   height: 500px;
+   background-color: rgba(95, 94, 93, 0.9);
+   width: 200px;
+   padding: 40px;
+   border-radius: 30px;
+   color: rgb(228, 224, 221);
+   
+
+}
+.card2{
+    position: absolute;
+    top: 750px ;
+    left: 350px ;
+    height: 500px;
+    width: 200px;
+    background-color: rgba(95, 94, 93, 0.9);
+    padding: 40px;
+    border-radius: 30px;
+    color: rgb(228, 224, 221);
+}
+.card3{
+    position: absolute;
+    top: 750px;
+    left: 680px;
+    height:500px ;
+    width: 200px;
+    background-color: rgba(95, 94, 93, 0.9);
+    padding: 40px;
+    border-radius: 30px;
+    color: rgb(228, 224, 221);
+}
+.container{
+ padding: 50px;
+    height: 600px;
+    background-color: rgba(40, 47, 48, 0.5);
+    width: 900px;
+    border-radius: 30px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    left: 30px;
+}
+.tech2{
+    height: 150px;
+    width: 200px;
+    color:  rgb(228, 224, 221); ;
+    position: absolute;
+    right: 30px;
+    left: 1100px;
+    top:950px;
+    background-color: rgba(143, 141, 136, 0.5);
+    border: 2px dotted rgb(243, 243, 236);
+    border-radius:15px ;
+    padding:15px;
+}
+.icons{
+    height: 40px;
+    width:200px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 1400px;
+    left: 600px;
+    margin: 30px;
+    margin-bottom: 30px;
+    
+}
